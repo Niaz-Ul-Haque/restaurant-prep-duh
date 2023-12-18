@@ -353,7 +353,7 @@ body.nav-active {
 
 .section-subtitle {
   position: relative;
-  color: red
+  color: var(--gold-crayola);
   font-weight: var(--weight-bold);
   text-transform: uppercase;
   letter-spacing: var(--letterSpacing-2);
